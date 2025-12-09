@@ -2,4 +2,6 @@
 Solutions to [Advent of Code](https://adventofcode.com) challenges 2025.
 ## Progress
 - [X] Day 1
-- [ ] Day 2
+- [X] Day 2
+- [X] Day 3
+- [X] Day 4
